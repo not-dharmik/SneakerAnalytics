@@ -56,6 +56,3 @@ FUTURE ENHANCEMENT:
 •	Add data from new sneaker releases for a more comprehensive analysis.
 •	Enable real-time data integration for up-to-date insights.
 
-
-
-![image](https://github.com/user-attachments/assets/f4c79f66-bcf2-4857-a4d5-f1613228d797)
