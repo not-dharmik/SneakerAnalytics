@@ -1,6 +1,6 @@
 # SneakerAnalytics
 
-OVERVIEW: An interactive Tableau dashboard analyzing sneaker sales trends, pricing, and market insights. Features include brand performance comparison, regional sales distribution, price margins, and demand forecasting. This project provides a comprehensive visualization to explore the dynamics of the sneaker market and showcase advanced data analytics.
+OVERVIEW: An interactive Tableau dashboard analyzing sneaker sales trends, pricing, and market insights. Features include - brand performance comparison - regional sales distribution - price margins. This project provides a comprehensive visualization to explore the dynamics of the sneaker market and showcase advanced data analytics.
 
 KEY FEATURE:
 - Analyze sales trends over time for popular sneaker models.
@@ -12,11 +12,11 @@ KEY FEATURE:
 DATASET:
 Source: StockX 2019 Data Contest [Kaggle - (https://stockx.com/news/the-2019-data-contest/)]
 Content:
-•	Overview: 
-o	The dataset contains ~10,000 shoe sales records from 50 different sneaker models (Nike x Off-White and Yeezy).
-•	Details: 
-o	Initial dataset includes order date, brand, sneaker name, sale price, retail price, release date, shoe size, and buyer region.
-o	Future updates: Estimated number of pairs released for each model and data refinements for better numerical analysis.
+- Overview:
+  - The dataset contains ~10,000 shoe sales records from 50 different sneaker models (Nike x Off-White and Yeezy).
+- Details: 
+  - Initial dataset includes order date, brand, sneaker name, sale price, retail price, release date, shoe size, and buyer region.
+  - Future updates: Estimated number of pairs released for each model and data refinements for better numerical analysis.
 
 VISUALIZATIONS:
 Describing Each Sheet:
@@ -34,25 +34,25 @@ Highlight the most commonly sold shoe sizes to understand demand trends.
 Identify the highest revenue-generating sneakers, categorized by brand or model.
 
 DASHBOARD FILTERS:
-•	All the sheets are enabled with filters and all the graphs/analyses is dynamic. So, everytime a user clicks on any attribute all the graphs dynamically equips and shows that specific data.
+- All the sheets are enabled with filters and all the graphs/analyses is dynamic. So, everytime a user clicks on any attribute all the graphs dynamically equips and shows that specific data.
 
 SCREENSHOT:
 <img width="1709" alt="image" src="https://github.com/user-attachments/assets/662bb33e-101f-405b-af92-957f6303112a" />
 
 CHALLENGES:
-o	Cleaning and formatting the dataset for Tableau visualization.
-o	Deciding on the most effective visualizations for key insights.
-o	Ensuring the dashboard remained interactive yet simple to use.
+- Cleaning and formatting the dataset for Tableau visualization.
+- Deciding on the most effective visualizations for key insights.
+- Ensuring the dashboard remained interactive yet simple to use.
 
 LEARNINGS:
-o	Enhanced skills in building interactive dashboards using Tableau.
-o	Gained insights into the sneaker market and resale dynamics.
-o	Learned to optimize visualizations for clarity and usability.
+- Enhanced skills in building interactive dashboards using Tableau.
+- Gained insights into the sneaker market and resale dynamics.
+- Learned to optimize visualizations for clarity and usability.
 
 INSIGHTS:
  
 FUTURE ENHANCEMENT: 
-•	Incorporate predictive analytics to forecast demand and price trends.
-•	Add data from new sneaker releases for a more comprehensive analysis.
-•	Enable real-time data integration for up-to-date insights.
+- Incorporate predictive analytics to forecast demand and price trends.
+- Add data from new sneaker releases for a more comprehensive analysis.
+- Enable real-time data integration for up-to-date insights.
 
