@@ -3,11 +3,11 @@
 OVERVIEW: An interactive Tableau dashboard analyzing sneaker sales trends, pricing, and market insights. Features include brand performance comparison, regional sales distribution, price margins, and demand forecasting. This project provides a comprehensive visualization to explore the dynamics of the sneaker market and showcase advanced data analytics.
 
 KEY FEATURE:
-*Analyze sales trends over time for popular sneaker models.
-*Compare brand performance using key metrics like sale price and resale value.
-*Visualize regional demand and distribution of sneaker sales.
-*Interactive filters for custom insights based on brand, region, date range, and shoe size.
-*Highlight top-performing sneakers with dynamic visualizations.
+-Analyze sales trends over time for popular sneaker models.
+-Compare brand performance using key metrics like sale price and resale value.
+-Visualize regional demand and distribution of sneaker sales.
+-Interactive filters for custom insights based on brand, region, date range, and shoe size.
+-Highlight top-performing sneakers with dynamic visualizations.
 
 DATASET:
 Source: StockX 2019 Data Contest [Kaggle - (https://stockx.com/news/the-2019-data-contest/)]
