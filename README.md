@@ -1,7 +1,8 @@
 # SneakerAnalytics
 
-OVERVIEW: An interactive Tableau dashboard analyzing sneaker sales trends, pricing, and market insights. Features include - brand performance comparison - regional sales distribution - price margins. This project provides a comprehensive visualization to explore the dynamics of the sneaker market and showcase advanced data analytics.
+**Ever wondered how sneaker flipping works and why it's become a booming market from a business perspective? Understanding the dynamics behind sneaker sales—like price margins, regional trends, and brand performance—is key to capitalizing on this multi-billion dollar industry.**
 
+Introducing an interactive Tableau dashboard analyzing sneaker sales trends, pricing, and market insights. This project provides a comprehensive visualization to explore the dynamics of the sneaker market and showcase advanced data analytics.
 
 KEY FEATURE:
 - Analyze sales trends over time for popular sneaker models.
